@@ -8,4 +8,6 @@ To execute the "Automatic Plot" function it is necessary to have installed the g
 
 You can see how at each integration I print the last 4 lines for each integration step on a different file. This is used to analyze the energy error related to the variation of the integration step through the "Fit.gnu" script that will be provided to you.
 
+E_x_v.gnu, EC_x_v.gnu, V_x_v.gnu, LF_x_v.gnu, PC_x_v.gnu are files for plotting phase space of every algorythm.
+
 This program works on linux systems, its functioning on windows is not guaranteed.
