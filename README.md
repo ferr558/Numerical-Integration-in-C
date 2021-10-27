@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ferr558
+- 👀 I’m interested in Physics and Computational Physics
+- You can reach me on e-mail: ferrari.1953500@gmail.com
